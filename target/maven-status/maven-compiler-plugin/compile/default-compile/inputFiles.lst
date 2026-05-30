@@ -1,0 +1,16 @@
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\database\DatabaseConnection.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\database\DatabaseManager.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\database\DatabaseSearch.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\database\DatabaseStatistics.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\database\DatabaseViewer.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\model\PasswordRecord.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\service\BreachChecker.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\service\CommonPasswordChecker.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\service\EntropyCalculator.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\service\PasswordAnalyzer.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\service\PasswordGenerator.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\service\PasswordHasher.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\service\SuggestionEngine.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\ui\Main.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\ui\RecordWindow.java
+C:\Users\Vedant Mittal\Desktop\Projects\Secure-Pass\src\main\java\ui\StatisticsWindow.java
