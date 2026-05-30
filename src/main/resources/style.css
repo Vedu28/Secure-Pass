@@ -1,0 +1,44 @@
+.root {
+    -fx-font-family: "Segoe UI";
+    -fx-padding: 20;
+}
+
+.label {
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-padding: 8 15 8 15;
+    -fx-background-radius: 8;
+}
+
+.button:hover {
+    -fx-cursor: hand;
+}
+
+.text-field,
+.password-field,
+.text-area {
+    -fx-font-size: 14px;
+}
+
+#title {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+#scoreLabel {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+#strengthLabel {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+#entropyLabel {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
